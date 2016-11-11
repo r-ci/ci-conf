@@ -2,4 +2,4 @@
 
 - core:
     listen: ["0.0.0.0", 8080]
-    url: "http://sc.r-ci.tk"
+    url: "http://sc.r-ci.tk/1"
